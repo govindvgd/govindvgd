@@ -82,7 +82,7 @@
 <h3 align="left">Few Projects:</h3>
 <ul>
   <li>
-    <strong>Audio Caption Generator of Images</strong><br />
+    <strong>Audio Caption Generator of Images</strong> | Prof. Siddharth S<br />
     Developing an ML model utilizing LSTM, VGG16, and CNN architectures to provide real-time audio descriptions of images, catering specifically to the needs of visually impaired individuals. Integrating LSTM networks to ensure precise and contextually relevant auditory descriptions for enhanced accessibility. Employing gTTS for real-time conversion of generated text into speech, ensuring seamless auditory communication.
   </li>
   <li>
